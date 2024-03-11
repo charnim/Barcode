@@ -42,7 +42,7 @@ All installation steps go here.
 * cd Barcode
 * python3 barcode.py
 
-## Running the App
+## Usage
 
 * Example steps:
   ```
